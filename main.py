@@ -5,6 +5,7 @@ from classes.Finder import Finder
 
 def options():
     print('\n\nSelect a Deliveryman:')
+    print('ID(int) to show unique.')
     print('0 or blank to all.')
     print('-1 to exit.')
 
