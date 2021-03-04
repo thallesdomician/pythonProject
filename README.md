@@ -18,3 +18,15 @@ Select a Deliveryman:
 -1 to exit.
 >>>
 ```
+
+aqui um exemplo de retorno:
+
+```
+
+Deliveryman: 2
+Total Orders: 2
+Total Received: R$9.00
+Order: 3        Store: 1        Price: R$50.00
+Order: 4        Store: 2        Price: R$50.00
+
+```
